@@ -33,7 +33,8 @@ Over the course of the internship (May 2025 – June 2025), I completed the foll
 
 ## 📄 Certificate
 
-You can view my certificate of completion [here](./PavanSaketh.JP%20MORGAN.certificate.pdf).
+You can view my certificate of completion [here](./JP-Morgan-Certificate.pdf).
+
 
 ---
 
